@@ -1,0 +1,6 @@
+C:\Users\c1693511\Documents\Visual Studio 2015\Projects\SearchAlgorithms\SearchAlgorithms\bin\Debug\SearchAlgorithms.exe.config
+C:\Users\c1693511\Documents\Visual Studio 2015\Projects\SearchAlgorithms\SearchAlgorithms\bin\Debug\SearchAlgorithms.exe
+C:\Users\c1693511\Documents\Visual Studio 2015\Projects\SearchAlgorithms\SearchAlgorithms\bin\Debug\SearchAlgorithms.pdb
+C:\Users\c1693511\Documents\Visual Studio 2015\Projects\SearchAlgorithms\SearchAlgorithms\obj\Debug\SearchAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\c1693511\Documents\Visual Studio 2015\Projects\SearchAlgorithms\SearchAlgorithms\obj\Debug\SearchAlgorithms.exe
+C:\Users\c1693511\Documents\Visual Studio 2015\Projects\SearchAlgorithms\SearchAlgorithms\obj\Debug\SearchAlgorithms.pdb
